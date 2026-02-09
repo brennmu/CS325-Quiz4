@@ -1,4 +1,4 @@
-def sub(a, b):
+def my_sub(a, b):
     return(int(a) - int(b))
 
-print(sub(5, 3))
+print(my_sub(5, 3))
