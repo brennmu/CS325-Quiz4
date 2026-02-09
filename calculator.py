@@ -1,4 +1,4 @@
-def add(num1, num2):
+def my_add(num1, num2):
     return(int(num1) + int(num2))
 
-print(add(10, 12))
+print(my_add(10, 12))
